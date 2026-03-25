@@ -10,18 +10,18 @@ export default function AboutPage() {
           className="text-4xl md:text-5xl font-bold text-white mb-8"
           style={{ fontFamily: "'Fredoka', sans-serif" }}
         >
-          About SmashPlay
+          About The Busy Baby
         </h1>
 
         <div className="space-y-6 text-white/70 text-lg leading-relaxed">
           <p>
-            SmashPlay is a free, ad-free interactive toy platform designed for babies and toddlers.
+            The Busy Baby is a free, ad-free interactive toy platform designed for babies and toddlers.
             Every keyboard press, mouse click, and screen touch triggers delightful animations and sounds.
           </p>
 
-          <h2 className="text-2xl font-bold text-white mt-8">Why SmashPlay?</h2>
+          <h2 className="text-2xl font-bold text-white mt-8">Why The Busy Baby?</h2>
           <p>
-            Babies love pressing buttons. SmashPlay turns that natural curiosity into a magical experience
+            Babies love pressing buttons. The Busy Baby turns that natural curiosity into a magical experience
             with colorful particles, fun sounds, and 10 unique games to explore.
           </p>
 

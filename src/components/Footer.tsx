@@ -7,7 +7,7 @@ export default function Footer() {
         <Link href="/about" className="hover:text-white/70 transition-colors">About</Link>
         <Link href="/guides" className="hover:text-white/70 transition-colors">Parent Guides</Link>
       </div>
-      <p>SmashPlay — Safe, fun, and ad-free. No tracking, no cookies.</p>
+      <p>The Busy Baby — Safe, fun, and ad-free. No tracking, no cookies.</p>
     </footer>
   );
 }

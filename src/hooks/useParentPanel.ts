@@ -20,7 +20,7 @@ const DEFAULT_SETTINGS: Settings = {
   particleIntensity: 3,
 };
 
-const STORAGE_KEY = 'smashplay-settings';
+const STORAGE_KEY = 'thebusybaby-settings';
 
 function loadSettings(): Settings {
   if (typeof window === 'undefined') return DEFAULT_SETTINGS;

@@ -9,14 +9,14 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: 'SmashPlay — Where Little Fingers Make Big Magic!',
+  title: 'The Busy Baby — Where Little Fingers Make Big Magic!',
   description: 'A fullscreen interactive toy platform for babies and toddlers. Every keyboard press, mouse click, and touch triggers fun animations and sounds. 10 delightful games, zero ads, zero tracking.',
   keywords: ['baby game', 'toddler game', 'keyboard smash', 'kids interactive', 'baby toy', 'educational game'],
   openGraph: {
-    title: 'SmashPlay — Where Little Fingers Make Big Magic!',
+    title: 'The Busy Baby — Where Little Fingers Make Big Magic!',
     description: '10 interactive games for babies and toddlers. Colorful animations, fun sounds, completely free and ad-free.',
     type: 'website',
-    siteName: 'SmashPlay',
+    siteName: 'The Busy Baby',
   },
   robots: 'index, follow',
 };

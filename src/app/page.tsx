@@ -14,7 +14,7 @@ export default function Home() {
             className="text-5xl md:text-7xl lg:text-8xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-400 via-purple-400 to-cyan-400 mb-4"
             style={{ fontFamily: "'Fredoka', sans-serif" }}
           >
-            SmashPlay
+            The Busy Baby
           </h1>
           <p className="text-xl md:text-2xl text-white/60 max-w-xl mx-auto">
             Where little fingers make big magic!
