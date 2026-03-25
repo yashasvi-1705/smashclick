@@ -29,7 +29,7 @@ export const EMOJIS = {
 
 export const GAME_IDS = [
   'confetti', 'bubbles', 'space', 'ocean', 'fireworks',
-  'paint', 'animals', 'rainbow', 'drums', 'garden',
+  'paint', 'animals', 'rainbow', 'drums', 'garden', 'abc',
 ] as const;
 
 export type GameId = typeof GAME_IDS[number];

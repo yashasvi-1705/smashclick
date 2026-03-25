@@ -36,4 +36,5 @@ export const GAME_LIST = [
   { id: 'rainbow', name: 'Rainbow Trail', emoji: '🌈', description: 'Draw rainbows across the sky!', gradient: 'from-pink-200 to-purple-200' },
   { id: 'drums', name: 'Drum Kit', emoji: '🥁', description: 'Beat the drums and make music!', gradient: 'from-slate-800 to-zinc-900' },
   { id: 'garden', name: 'Magic Garden', emoji: '🌸', description: 'Grow flowers and butterflies!', gradient: 'from-sky-400 to-green-500' },
+  { id: 'abc', name: 'ABC Smash', emoji: '🔤', description: 'Learn the alphabet with sounds!', gradient: 'from-violet-600 to-blue-600' },
 ];
